@@ -38,12 +38,13 @@ An alternative wwould be to find or make an api that filters a list of coordinat
 # Comments to solution.
 
 
-* I have tried to record types in order to avoid primitives obsession anti pattern
+* I have tried to use record types in order to avoid primitives obsession anti pattern. One could also fall back to ValueObject implementations prior to the existence of record.
 * I have added some test specifications.
 * Naming could be improved
+* Use of  various types of lists, array, enumarable Hashset etc could be considered.
 * some code could probably be optimized or solved in a more elegant way. (But time is an issue here)
-* Ideally I would like to obtain human readable tests. Some test frameworks helps here. But also naming classes and putting test files into sub folders can help readability.
-* I havent used layers here. One could use port and adapters/ clean architecture. My self would promote slicebased architecture. It depends there are pros and cons. And there are fiex for the cons. And sometimes one can live with the cons.
+* Ideally I would like to obtain human readable testsand code as well. Some test frameworks helps here. But also naming classes and putting test files into sub folders can help readability.
+* I havent used layers here. One could use port and adapters/ clean architecture. I My self would promote slicebased architecture. It depends there are pros and cons. And there are fixes for the cons. And sometimes one can live with the cons.
 
 
 
