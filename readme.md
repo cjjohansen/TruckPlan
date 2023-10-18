@@ -42,7 +42,7 @@ An alternative wwould be to find or make an api that filters a list of coordinat
 * I have added some test specifications.
 * Naming could be improved
 * some code could probably be optimized or solved in a more elegant way. (But time is an issue here)
-* Ideally I would like to obtain human readable tests. Some test frameworks helps here. But alosnaming classes and putting test files into sub forlder can help readability.
+* Ideally I would like to obtain human readable tests. Some test frameworks helps here. But also naming classes and putting test files into sub folders can help readability.
 * I havent used layers here. One could use port and adapters/ clean architecture. My self would promote slicebased architecture. It depends there are pros and cons. And there are fiex for the cons. And sometimes one can live with the cons.
 
 
