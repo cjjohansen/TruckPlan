@@ -1,5 +1,9 @@
+
+# Introduction
 There are lots of interesting things to consider in the given task
 
+
+# Problem Defintion
 
 > This following exercise is intended to help aid discussion - there are no wrong answers. You will
 have to make assumptions to complete the implementation. Please document your assumptions.
@@ -20,18 +24,18 @@ We look forward to discussing your solution to this exercise!
 Please send us the solution in advance of the interview so we can set it up for your arrival.
 1. 
 
-
+# General Comments
 
 There is the problem of determining if a coordinate is within a polygon or a routesegment intersects with a polygon.
 
 Numerous solutions i.e algorithms can be found on the internet.
 
-Using API call to determine if a coordinate is within a country is ok ifasking with on coordinate. But if you need to ask with 1000 coordinates then it might become an issue.
+Using API call to determine if a coordinate is within a country is ok if asking with one coordinate. But if you need to ask with 1000 coordinates then it might become an issue.
 
 An alternative wwould be to find or make an api that filters a list of coordinates by country. 
 
 
-Comments to solution.
+# Comments to solution.
 
 
 * I have tried to record types in order to avoid primitives obsession anti pattern
